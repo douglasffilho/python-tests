@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+metastore_db
+derby.log
+.cache
+*.swp
+.idea
+spark-warehouse
+build
+dist
+_conf_
+_app_conf_
+dump.rdb
+venv
+bin/checkpoint
+logs/
+src/python_tests.egg-info
