@@ -7,4 +7,4 @@ class Controller:
 
         @app.route('/<name>')
         def hello_name(name):
-            return f'Hello, {name}!'.format(name=name)
+            return f'Hello, {name}!'
